@@ -1,0 +1,10 @@
+.about{
+    margin: 80px auto 70px auto;
+    font-size: 40px;
+    text-align: center;
+    width: 60%;
+    background-color: rgba(214, 214, 214, 0.482);
+    /* justify-content: center; */
+    border-block:5px double gray ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
